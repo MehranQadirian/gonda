@@ -29,7 +29,7 @@
 
 **Lightweight Console-Based File Manager for Windows**
 
-<img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform"> <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Language"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"> <img src="https://img.shields.io/badge/Size-Single%20EXE-orange?style=for-the-badge" alt="Size">
+<img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform"> <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Language"> <img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge" alt="License"> <img src="https://img.shields.io/badge/Size-Single%20EXE-orange?style=for-the-badge" alt="Size">
 
 </div>
 
